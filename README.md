@@ -1,0 +1,1 @@
+This is Rosa's first git project
